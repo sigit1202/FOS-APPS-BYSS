@@ -2,15 +2,15 @@
   "min": {
     "all": "0.0.0",
     "web": "0.0.0",
-    "windows": "0.0.0",
-    "android": "1.0.20",
+    "windows": "1.0.25",
+    "android": "1.0.25",
     "ios": "0.0.0"
   },
   "latest": {
     "all": "1.0.0",
     "web": "1.0.0",
-    "windows": "1.0.0",
-    "android": "1.0.20",
+    "windows": "1.0.25",
+    "android": "1.0.25",
     "ios": "1.0.0"
   },
   "urls": {
